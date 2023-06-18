@@ -5,7 +5,7 @@ import './App.css';
 const App = () => {
     return (
         <main>
-            <div className='main text-3xl font-bold'>AI Summarizer powered by ChatGPT. Created by Shafiq Ramli.
+            <div className='main text-3xl font-bold'>{/*AI Summarizer powered by ChatGPT. Created by Shafiq Ramli.*/}
                 <div className='gradient'>
                 </div>
             </div>
